@@ -4,6 +4,16 @@
       "id": 1,
       "name": "Nrupul",
       "city": "banglore"
+    },
+    {
+      "id": 2,
+      "name": "Pratik",
+      "city": "bangluru"
+    },
+    {
+      "id": 3,
+      "name": "nihal",
+      "city": "bangluru"
     }
   ]
 }
